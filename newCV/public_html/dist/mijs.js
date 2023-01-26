@@ -17,13 +17,13 @@ document.getElementById("birth").addEventListener("click", function(){
      console.log( " Estamos capturando con addEventLiltener");
      document.getElementById("user_title").innerHTML = " Mi fecha de nacimiento es :";
     console.log( " Estamos cambiando el titulo");
-    document.getElementById("user_value").innerHTML= "2 / 02 / 2000"; 
+    document.getElementById("user_value").innerHTML= " 02 / 02 / 2000"; 
  });  
  document.getElementById("location").addEventListener("click", function(){
      console.log( " Estamos capturando con addEventLiltener");
      document.getElementById("user_title").innerHTML = " Mi direccion es :";
     console.log( " Estamos cambiando el titulo");
-    document.getElementById("user_value").innerHTML= " Broadway Av. 555"; 
+    document.getElementById("user_value").innerHTML= " Abbey Road 555"; 
  });  
  document.getElementById("telephone").addEventListener("click", function(){
      console.log( " Estamos capturando con addEventLiltener");
